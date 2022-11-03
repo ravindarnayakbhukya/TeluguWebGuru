@@ -3,7 +3,7 @@ TeluguWebGuru is a YouTube Channel.
 
 
 https://ravindarnayakbhukya.github.io/TeluguWebGuru/
-file:///D:/coding/webDesignAssignment/index.html
+https:///D:/coding/webDesignAssignment/index.html
 This is an index page of TeluguWebGuru.
 
 
