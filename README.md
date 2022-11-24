@@ -1,5 +1,5 @@
 # TeluguWebGuru
-TeluguWebGuru is a YouTube Channel.
+TeluguWebGuru is a Website to learn Software Technologies.
 
 
 https://ravindarnayakbhukya.github.io/TeluguWebGuru/
