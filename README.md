@@ -6,4 +6,4 @@ https://ravindarnayakbhukya.github.io/TeluguWebGuru/
 This is an index page of TeluguWebGuru website.
 
 html code: https://github.com/ravindarnayakbhukya/TeluguWebGuru/blob/main/index.html
-css code: 
+css code: https://github.com/ravindarnayakbhukya/TeluguWebGuru/blob/main/styles.css
