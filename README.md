@@ -5,5 +5,7 @@ TeluguWebGuru is a Website to learn Software Technologies.
 https://ravindarnayakbhukya.github.io/TeluguWebGuru/
 This is an index page of TeluguWebGuru website.
 
-html code: https://github.com/ravindarnayakbhukya/TeluguWebGuru/blob/main/index.html and
-css code: https://github.com/ravindarnayakbhukya/TeluguWebGuru/blob/main/styles.css
+HTML Code: https://github.com/ravindarnayakbhukya/TeluguWebGuru/blob/main/index.html and
+CSS Code: https://github.com/ravindarnayakbhukya/TeluguWebGuru/blob/main/styles.css
+JavaScript Code: https://github.com/ravindarnayakbhukya/TeluguWebGuru/blob/main/home.html
+JavaScript Code for Authentication: 
