@@ -1,6 +1,8 @@
 # TeluguWebGuru
 TeluguWebGuru is a Website to learn Software Technologies. Users must have to login with valid credentials so that they can enroll into the courses in which they are interested in.
 
+Key skills/exoertise involved: HTML, CSS, JavaScript, Database
+
 https://ravindarnayakbhukya.github.io/TeluguWebGuru/
 This is an index page of TeluguWebGuru website.
 
